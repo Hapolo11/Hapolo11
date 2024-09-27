@@ -1,7 +1,7 @@
 ### Olá Eu sou Hapolo Luiz 
 Sou estudande de Ciencia da Computação, formado como tecnico em automação industrial e estou começando minha jornada como desenvolvedor
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hapolo-luiz-071234270/details/skills/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hapolo-luiz-071234270)
 
 ![Hapolo GitHub stats](https://github-readme-stats.vercel.app/api?username=Hapolo11&show_icons=true&theme=dracula)
 ## Tecnologias que utilizo⚙️
