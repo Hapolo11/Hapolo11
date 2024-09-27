@@ -1,4 +1,5 @@
 ### Olá Eu sou Hapolo Luiz 
+#Sou um estudande de Ciencia da Computação, formado como tecnico em automação industrial e estou começando minha jornada como desenvolvedor
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hapolo-luiz-071234270/details/skills/)
 
